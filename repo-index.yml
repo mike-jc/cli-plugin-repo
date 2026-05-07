@@ -353,19 +353,19 @@ plugins:
     homepage: https://github.com/maxmoehl
     name: Maximilian Moehl
   binaries:
-  - checksum: a796056ff24a8e1c690b3a359e179c11312fb0cc
+  - checksum: abce8411a2816785573a5e387fa03e89e22ed52c
     platform: osx
     url: https://github.com/cloudfoundry/cf-lookup-route/releases/download/0.2.1/cf-lookup-route.osx
-  - checksum: 21dee2c9a2eb095a28ea61ab650a780f67df6c2c
+  - checksum: f3bb7d486c112857a02233c467f90580d264253f
     platform: linux64
     url: https://github.com/cloudfoundry/cf-lookup-route/releases/download/0.2.1/cf-lookup-route.linux64
-  - checksum: c6b6631e1eea5b7ecaf2688644ba17c5af22b5a2
+  - checksum: b007a4400297fa1f556b3efdd88dc305ac256a08
     platform: linux32
     url: https://github.com/cloudfoundry/cf-lookup-route/releases/download/0.2.1/cf-lookup-route.linux32
-  - checksum: 60dda2e6bc37e72e1421c1a77cdeaec2e6511f5d
+  - checksum: 648471de79246af383d3eea2ef00ca7ab50a3aee
     platform: win32
     url: https://github.com/cloudfoundry/cf-lookup-route/releases/download/0.2.1/cf-lookup-route.win32
-  - checksum: a9eb8e49925f55b69bf07f21e87f1244bdf234ae
+  - checksum: 491b304557dc4736a1232e043d978f24dedb5f06
     platform: win64
     url: https://github.com/cloudfoundry/cf-lookup-route/releases/download/0.2.1/cf-lookup-route.win64
   company: Cloud Foundry Foundation
@@ -374,7 +374,7 @@ plugins:
     to.
   homepage: https://github.com/cloudfoundry/cf-lookup-route
   name: cf-lookup-route
-  updated: "2026-05-05T00:00:00Z"
+  updated: "2026-05-07T00:00:00Z"
   version: 0.2.1
 - authors:
   - contact: stanislav.turlo@altoros.com
